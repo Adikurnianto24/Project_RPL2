@@ -1,5 +1,8 @@
 # OrderFlow - E-Commerce Clothing Store
+![image](https://github.com/user-attachments/assets/1944e7bb-1be8-4b33-920d-56a516a0a55b)
+
 OrderFlow adalah platform e-commerce modern yang khusus menjual pakaian, dilengkapi dengan proses pemesanan yang mudah, fitur wishlist, dan update promosi real-time.
+
 
 ## 🌟 Fitur Utama
 
