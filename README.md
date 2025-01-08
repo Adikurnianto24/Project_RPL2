@@ -44,7 +44,7 @@ OrderFlow adalah platform e-commerce modern yang khusus menjual pakaian, dilengk
 ### Instalasi
 
 1. Clone repository:
-git clone https://github.com/username-anda/orderflow.git
+git clone https://github.com/Adikurnianto24/Project_RPL2.git
 2. Install dependensi:
 composer install
 3. Konfigurasi database:
